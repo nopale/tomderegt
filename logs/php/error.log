@@ -1,0 +1,1057 @@
+[15-Oct-2020 07:32:45 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-filter.php on line 4
+[15-Oct-2020 07:32:45 UTC] PHP Stack trace:
+[15-Oct-2020 07:32:45 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[15-Oct-2020 07:32:45 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[15-Oct-2020 07:32:45 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[15-Oct-2020 07:32:45 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[15-Oct-2020 07:32:45 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:20
+[15-Oct-2020 07:32:45 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[15-Oct-2020 07:32:45 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[15-Oct-2020 07:32:45 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[15-Oct-2020 08:30:28 UTC] PHP Warning:  require_once(inc/script.php): failed to open stream: No such file or directory in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:30:28 UTC] PHP Stack trace:
+[15-Oct-2020 08:30:28 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:0
+[15-Oct-2020 08:30:28 UTC] PHP   2. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:22
+[15-Oct-2020 08:30:28 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:30:28 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:30:28 UTC] PHP   5. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:30:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/script.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:30:28 UTC] PHP Stack trace:
+[15-Oct-2020 08:30:28 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:0
+[15-Oct-2020 08:30:28 UTC] PHP   2. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:22
+[15-Oct-2020 08:30:28 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:30:28 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:30:28 UTC] PHP   5. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:32:29 UTC] PHP Warning:  require_once(inc/script.php): failed to open stream: No such file or directory in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:32:29 UTC] PHP Stack trace:
+[15-Oct-2020 08:32:29 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:0
+[15-Oct-2020 08:32:29 UTC] PHP   2. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:22
+[15-Oct-2020 08:32:29 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:32:29 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:32:29 UTC] PHP   5. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:32:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/script.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:32:29 UTC] PHP Stack trace:
+[15-Oct-2020 08:32:29 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:0
+[15-Oct-2020 08:32:29 UTC] PHP   2. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:22
+[15-Oct-2020 08:32:29 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:32:29 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:32:29 UTC] PHP   5. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:33:47 UTC] PHP Warning:  require_once(inc/script.php): failed to open stream: No such file or directory in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:33:47 UTC] PHP Stack trace:
+[15-Oct-2020 08:33:47 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[15-Oct-2020 08:33:47 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[15-Oct-2020 08:33:47 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:13
+[15-Oct-2020 08:33:47 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:33:47 UTC] PHP   5. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:33:47 UTC] PHP   6. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:33:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/script.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:33:47 UTC] PHP Stack trace:
+[15-Oct-2020 08:33:47 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[15-Oct-2020 08:33:47 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[15-Oct-2020 08:33:47 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:13
+[15-Oct-2020 08:33:47 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:33:47 UTC] PHP   5. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:33:47 UTC] PHP   6. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:34:20 UTC] PHP Warning:  require_once(/inc/scripts.php): failed to open stream: No such file or directory in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:34:20 UTC] PHP Stack trace:
+[15-Oct-2020 08:34:20 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[15-Oct-2020 08:34:20 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[15-Oct-2020 08:34:20 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:13
+[15-Oct-2020 08:34:20 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:34:20 UTC] PHP   5. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:34:20 UTC] PHP   6. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:34:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/inc/scripts.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:34:20 UTC] PHP Stack trace:
+[15-Oct-2020 08:34:20 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[15-Oct-2020 08:34:20 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[15-Oct-2020 08:34:20 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:13
+[15-Oct-2020 08:34:20 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:34:20 UTC] PHP   5. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:34:20 UTC] PHP   6. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:34:21 UTC] PHP Warning:  require_once(/inc/scripts.php): failed to open stream: No such file or directory in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:34:21 UTC] PHP Stack trace:
+[15-Oct-2020 08:34:21 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[15-Oct-2020 08:34:21 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[15-Oct-2020 08:34:21 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:13
+[15-Oct-2020 08:34:21 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:34:21 UTC] PHP   5. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:34:21 UTC] PHP   6. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:34:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/inc/scripts.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:34:21 UTC] PHP Stack trace:
+[15-Oct-2020 08:34:21 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[15-Oct-2020 08:34:21 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[15-Oct-2020 08:34:21 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:13
+[15-Oct-2020 08:34:21 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:34:21 UTC] PHP   5. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:34:21 UTC] PHP   6. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:34:30 UTC] PHP Warning:  require_once(/inc/scripts.php): failed to open stream: No such file or directory in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:34:30 UTC] PHP Stack trace:
+[15-Oct-2020 08:34:30 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:0
+[15-Oct-2020 08:34:30 UTC] PHP   2. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:22
+[15-Oct-2020 08:34:30 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:34:30 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:34:30 UTC] PHP   5. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[15-Oct-2020 08:34:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/inc/scripts.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/functions.php on line 191
+[15-Oct-2020 08:34:30 UTC] PHP Stack trace:
+[15-Oct-2020 08:34:30 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:0
+[15-Oct-2020 08:34:30 UTC] PHP   2. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin-ajax.php:22
+[15-Oct-2020 08:34:30 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-load.php:37
+[15-Oct-2020 08:34:30 UTC] PHP   4. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-config.php:77
+[15-Oct-2020 08:34:30 UTC] PHP   5. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-settings.php:514
+[16-Oct-2020 07:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 07:47:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 07:47:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 07:47:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 07:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 07:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 08:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function hero_post_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:4
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Website in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 4
+[16-Oct-2020 11:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_sub_field() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:116
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Websites_Dev in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 116
+[16-Oct-2020 12:11:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 122
+[16-Oct-2020 13:04:20 UTC] PHP Warning:  Use of undefined constant hero_image - assumed 'hero_image' (this will throw an Error in a future version of PHP) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 129
+[16-Oct-2020 13:04:20 UTC] PHP Stack trace:
+[16-Oct-2020 13:04:20 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[16-Oct-2020 13:04:20 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[16-Oct-2020 13:04:20 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[16-Oct-2020 13:04:20 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[16-Oct-2020 13:04:20 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:20
+[16-Oct-2020 13:04:20 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[16-Oct-2020 13:04:20 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[16-Oct-2020 13:04:20 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[16-Oct-2020 13:04:41 UTC] PHP Warning:  Use of undefined constant hero_image - assumed 'hero_image' (this will throw an Error in a future version of PHP) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 129
+[16-Oct-2020 13:04:41 UTC] PHP Stack trace:
+[16-Oct-2020 13:04:41 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[16-Oct-2020 13:04:41 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[16-Oct-2020 13:04:41 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[16-Oct-2020 13:04:41 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[16-Oct-2020 13:04:41 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:20
+[16-Oct-2020 13:04:41 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[16-Oct-2020 13:04:41 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[16-Oct-2020 13:04:41 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[16-Oct-2020 13:04:42 UTC] PHP Warning:  Use of undefined constant hero_image - assumed 'hero_image' (this will throw an Error in a future version of PHP) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 129
+[16-Oct-2020 13:04:42 UTC] PHP Stack trace:
+[16-Oct-2020 13:04:42 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[16-Oct-2020 13:04:42 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[16-Oct-2020 13:04:42 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[16-Oct-2020 13:04:42 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[16-Oct-2020 13:04:42 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:20
+[16-Oct-2020 13:04:42 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[16-Oct-2020 13:04:42 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[16-Oct-2020 13:04:42 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[18-Oct-2020 13:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:52
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php on line 52
+[18-Oct-2020 13:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:52
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php on line 52
+[18-Oct-2020 13:47:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:52
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php on line 52
+[18-Oct-2020 13:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:52
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php on line 52
+[18-Oct-2020 13:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:52
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php on line 52
+[18-Oct-2020 13:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:52
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php on line 52
+[18-Oct-2020 13:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:51
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php on line 51
+[18-Oct-2020 17:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function nice_background() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php:129
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php(20): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Documents/Websites_D in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-hero.php on line 129
+[19-Oct-2020 09:46:13 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-featured.php on line 27
+[26-Oct-2020 13:55:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:55:13 UTC] PHP Stack trace:
+[26-Oct-2020 13:55:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:55:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:55:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:55:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:55:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:55:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:55:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:55:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:55:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:55:13 UTC] PHP Stack trace:
+[26-Oct-2020 13:55:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:55:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:55:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:55:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:55:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:55:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:55:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:55:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:55:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:55:13 UTC] PHP Stack trace:
+[26-Oct-2020 13:55:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:55:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:55:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:55:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:55:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:55:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:55:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:55:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:55:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:55:13 UTC] PHP Stack trace:
+[26-Oct-2020 13:55:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:55:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:55:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:55:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:55:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:55:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:55:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:55:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:55:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:55:13 UTC] PHP Stack trace:
+[26-Oct-2020 13:55:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:55:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:55:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:55:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:55:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:55:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:55:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:55:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:57:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:57:04 UTC] PHP Stack trace:
+[26-Oct-2020 13:57:04 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:57:04 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:57:04 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:57:04 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:57:04 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:57:04 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:57:04 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:57:04 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:57:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:57:04 UTC] PHP Stack trace:
+[26-Oct-2020 13:57:04 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:57:04 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:57:04 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:57:04 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:57:04 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:57:04 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:57:04 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:57:04 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:57:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:57:04 UTC] PHP Stack trace:
+[26-Oct-2020 13:57:04 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:57:04 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:57:04 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:57:04 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:57:04 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:57:04 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:57:04 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:57:04 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:57:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:57:04 UTC] PHP Stack trace:
+[26-Oct-2020 13:57:04 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:57:04 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:57:04 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:57:04 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:57:04 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:57:04 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:57:04 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:57:04 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 13:57:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 13:57:04 UTC] PHP Stack trace:
+[26-Oct-2020 13:57:04 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 13:57:04 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 13:57:04 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 13:57:04 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 13:57:04 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 13:57:04 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 13:57:04 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 13:57:04 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:00:06 UTC] PHP Stack trace:
+[26-Oct-2020 14:00:06 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:00:06 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:00:06 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:00:06 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:00:06 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:00:06 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:00:06 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:00:06 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:27 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:27 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:27 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:27 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:27 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:27 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:27 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:27 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:27 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:27 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:27 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:27 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:27 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:27 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:27 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:27 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:27 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:27 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:27 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:27 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:27 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:27 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:27 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:27 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:27 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:27 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:27 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:27 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:27 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:27 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:27 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:27 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:27 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:27 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:27 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:27 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:27 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:27 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:27 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:27 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:27 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:27 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:27 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:27 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:27 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:58 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:58 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:58 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:58 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:58 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:58 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:58 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:58 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:58 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:58 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:58 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:58 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:58 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:58 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:58 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:58 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:58 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:58 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:58 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:58 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:58 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:58 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:58 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:58 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:58 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:58 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:58 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:58 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:58 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:58 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:58 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:58 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:58 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:58 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:58 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:58 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:01:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:01:58 UTC] PHP Stack trace:
+[26-Oct-2020 14:01:58 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:01:58 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:01:58 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:01:58 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:01:58 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:01:58 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:01:58 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:01:58 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:12 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:12 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:12 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:12 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:12 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:12 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:12 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:12 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:12 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:12 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:12 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:12 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:12 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:12 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:12 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:12 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:12 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:12 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:12 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:12 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:12 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:12 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:12 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:12 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:12 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:12 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:12 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:12 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:12 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:12 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:12 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:12 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:12 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:12 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:12 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:12 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:12 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:12 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:12 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:12 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:12 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:12 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:12 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:12 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:12 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:13 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:13 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:13 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:13 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:13 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:13 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:13 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:13 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:13 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:13 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:13 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:13 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:13 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:14 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:14 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:14 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:14 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:14 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:14 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:14 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:14 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:14 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:14 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:14 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:14 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:14 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:14 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:14 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:14 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:14 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:14 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:14 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:14 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:14 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:14 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:14 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:14 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:14 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:14 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:14 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:14 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:14 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:14 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:14 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:14 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:14 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:14 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:14 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:14 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:02:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:02:14 UTC] PHP Stack trace:
+[26-Oct-2020 14:02:14 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:02:14 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:02:14 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:02:14 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:02:14 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:02:14 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:02:14 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:02:14 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:03:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:03:49 UTC] PHP Stack trace:
+[26-Oct-2020 14:03:49 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:03:49 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:03:49 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:03:49 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:03:49 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:03:49 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:03:49 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:03:49 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:03:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:03:49 UTC] PHP Stack trace:
+[26-Oct-2020 14:03:49 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:03:49 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:03:49 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:03:49 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:03:49 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:03:49 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:03:49 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:03:49 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:03:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:03:49 UTC] PHP Stack trace:
+[26-Oct-2020 14:03:49 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:03:49 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:03:49 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:03:49 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:03:49 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:03:49 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:03:49 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:03:49 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:03:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:03:49 UTC] PHP Stack trace:
+[26-Oct-2020 14:03:49 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:03:49 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:03:49 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:03:49 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:03:49 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:03:49 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:03:49 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:03:49 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[26-Oct-2020 14:03:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 48
+[26-Oct-2020 14:03:49 UTC] PHP Stack trace:
+[26-Oct-2020 14:03:49 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:0
+[26-Oct-2020 14:03:49 UTC] PHP   2. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php:17
+[26-Oct-2020 14:03:49 UTC] PHP   3. require_once() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php:19
+[26-Oct-2020 14:03:49 UTC] PHP   4. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php:106
+[26-Oct-2020 14:03:49 UTC] PHP   5. get_template_part() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/index.php:41
+[26-Oct-2020 14:03:49 UTC] PHP   6. locate_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php:204
+[26-Oct-2020 14:03:49 UTC] PHP   7. load_template() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:676
+[26-Oct-2020 14:03:49 UTC] PHP   8. require() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php:732
+[27-Oct-2020 16:23:37 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php on line 154
+[27-Oct-2020 16:23:37 UTC] PHP Stack trace:
+[27-Oct-2020 16:23:37 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:0
+[27-Oct-2020 16:23:37 UTC] PHP   2. do_action_ref_array() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:138
+[27-Oct-2020 16:23:37 UTC] PHP   3. WP_Hook->do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:544
+[27-Oct-2020 16:23:37 UTC] PHP   4. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:311
+[27-Oct-2020 16:23:37 UTC] PHP   5. wp_version_check() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:287
+[27-Oct-2020 16:23:37 UTC] PHP   6. set_site_transient() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php:74
+[27-Oct-2020 16:23:37 UTC] PHP   7. update_site_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1962
+[27-Oct-2020 16:23:37 UTC] PHP   8. update_network_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1294
+[27-Oct-2020 16:23:37 UTC] PHP   9. update_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1724
+[27-Oct-2020 16:23:37 UTC] PHP  10. apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:394
+[27-Oct-2020 16:23:37 UTC] PHP  11. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:206
+[27-Oct-2020 16:23:37 UTC] PHP  12. LocalWP_Live_Link_Helper->make_link_local() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:289
+[27-Oct-2020 16:23:37 UTC] PHP  13. LocalWP_Live_Link_Helper->replace_host() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php:186
+[27-Oct-2020 16:23:37 UTC] PHP  14. str_replace() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php:154
+[27-Oct-2020 16:25:02 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php on line 154
+[27-Oct-2020 16:25:02 UTC] PHP Stack trace:
+[27-Oct-2020 16:25:02 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:0
+[27-Oct-2020 16:25:02 UTC] PHP   2. do_action_ref_array() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:138
+[27-Oct-2020 16:25:02 UTC] PHP   3. WP_Hook->do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:544
+[27-Oct-2020 16:25:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:311
+[27-Oct-2020 16:25:02 UTC] PHP   5. wp_update_plugins() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:287
+[27-Oct-2020 16:25:02 UTC] PHP   6. set_site_transient() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php:347
+[27-Oct-2020 16:25:02 UTC] PHP   7. update_site_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1962
+[27-Oct-2020 16:25:02 UTC] PHP   8. update_network_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1294
+[27-Oct-2020 16:25:02 UTC] PHP   9. update_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1724
+[27-Oct-2020 16:25:02 UTC] PHP  10. apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:394
+[27-Oct-2020 16:25:02 UTC] PHP  11. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:206
+[27-Oct-2020 16:25:02 UTC] PHP  12. LocalWP_Live_Link_Helper->make_link_local() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:289
+[27-Oct-2020 16:25:02 UTC] PHP  13. LocalWP_Live_Link_Helper->replace_host() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php:186
+[27-Oct-2020 16:25:02 UTC] PHP  14. str_replace() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php:154
+[27-Oct-2020 16:26:07 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php on line 154
+[27-Oct-2020 16:26:07 UTC] PHP Stack trace:
+[27-Oct-2020 16:26:07 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:0
+[27-Oct-2020 16:26:07 UTC] PHP   2. do_action_ref_array() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:138
+[27-Oct-2020 16:26:07 UTC] PHP   3. WP_Hook->do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:544
+[27-Oct-2020 16:26:07 UTC] PHP   4. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:311
+[27-Oct-2020 16:26:07 UTC] PHP   5. wp_update_themes() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:287
+[27-Oct-2020 16:26:07 UTC] PHP   6. set_site_transient() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php:552
+[27-Oct-2020 16:26:07 UTC] PHP   7. update_site_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1962
+[27-Oct-2020 16:26:07 UTC] PHP   8. update_network_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1294
+[27-Oct-2020 16:26:07 UTC] PHP   9. update_option() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:1724
+[27-Oct-2020 16:26:07 UTC] PHP  10. apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/option.php:394
+[27-Oct-2020 16:26:07 UTC] PHP  11. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:206
+[27-Oct-2020 16:26:07 UTC] PHP  12. LocalWP_Live_Link_Helper->make_link_local() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:289
+[27-Oct-2020 16:26:07 UTC] PHP  13. LocalWP_Live_Link_Helper->replace_host() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php:186
+[27-Oct-2020 16:26:07 UTC] PHP  14. str_replace() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php:154
+[28-Oct-2020 17:11:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_name() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/category-clothing.php:5
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/category-clothing.php on line 5
+[28-Oct-2020 17:20:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/plugins/use-any-font/includes/uaf_functions.php on line 319
+[28-Oct-2020 17:20:04 UTC] PHP Stack trace:
+[28-Oct-2020 17:20:04 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin.php:0
+[28-Oct-2020 17:20:04 UTC] PHP   2. do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-admin/admin.php:259
+[28-Oct-2020 17:20:04 UTC] PHP   3. WP_Hook->do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:478
+[28-Oct-2020 17:20:04 UTC] PHP   4. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:311
+[28-Oct-2020 17:20:04 UTC] PHP   5. uaf_settings_page() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:287
+[28-Oct-2020 17:20:04 UTC] PHP   6. include() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/plugins/use-any-font/plugin_interface.php:54
+[28-Oct-2020 17:20:04 UTC] PHP   7. uaf_count_uploaded_fonts() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/plugins/use-any-font/includes/uaf_font_upload_js.php:37
+[29-Oct-2020 10:01:32 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM wp_postmeta WHERE meta_id IN( 812 ) made by do_action_ref_array('do_pings'), WP_Hook->do_action, WP_Hook->apply_filters, do_all_pings, delete_post_meta, delete_metadata
+[03-Nov-2020 12:55:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_name() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php:13
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(732): require()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template.php(676): load_template('/Users/alamato/...', false, Array)
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-directiondesign.php(47): get_template_part('template-parts/...')
+#4 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include('/Users/alamato/...')
+#5 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#6 /Users/alamato/Docu in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-grid.php on line 13
+[06-Nov-2020 12:20:47 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php on line 33
+[06-Nov-2020 12:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_subfield() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php:27
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php on line 27
+[06-Nov-2020 12:22:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_subfield() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php:27
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php on line 27
+[06-Nov-2020 12:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_subfield() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php:27
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php on line 27
+[06-Nov-2020 12:24:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_subfield() in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php:27
+Stack trace:
+#0 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-blog-header.php(19): require_once('/Users/alamato/...')
+#2 /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/index.php(17): require('/Users/alamato/...')
+#3 {main}
+  thrown in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/page-clients.php on line 27
+[06-Nov-2020 21:38:35 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-content/themes/tomderegt/template-parts/content-feature.php on line 78
+[07-Nov-2020 17:00:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php on line 168
+[07-Nov-2020 17:00:09 UTC] PHP Stack trace:
+[07-Nov-2020 17:00:09 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:0
+[07-Nov-2020 17:00:09 UTC] PHP   2. do_action_ref_array() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:138
+[07-Nov-2020 17:00:09 UTC] PHP   3. WP_Hook->do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:544
+[07-Nov-2020 17:00:09 UTC] PHP   4. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:311
+[07-Nov-2020 17:00:09 UTC] PHP   5. wp_version_check() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:287
+[07-Nov-2020 17:00:09 UTC] PHP   6. trigger_error() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php:168
+[07-Nov-2020 17:00:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php on line 403
+[07-Nov-2020 17:00:09 UTC] PHP Stack trace:
+[07-Nov-2020 17:00:09 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:0
+[07-Nov-2020 17:00:09 UTC] PHP   2. do_action_ref_array() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:138
+[07-Nov-2020 17:00:09 UTC] PHP   3. WP_Hook->do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:544
+[07-Nov-2020 17:00:09 UTC] PHP   4. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:311
+[07-Nov-2020 17:00:09 UTC] PHP   5. wp_update_plugins() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:287
+[07-Nov-2020 17:00:09 UTC] PHP   6. trigger_error() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php:403
+[07-Nov-2020 17:00:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php on line 607
+[07-Nov-2020 17:00:09 UTC] PHP Stack trace:
+[07-Nov-2020 17:00:09 UTC] PHP   1. {main}() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:0
+[07-Nov-2020 17:00:09 UTC] PHP   2. do_action_ref_array() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-cron.php:138
+[07-Nov-2020 17:00:09 UTC] PHP   3. WP_Hook->do_action() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/plugin.php:544
+[07-Nov-2020 17:00:09 UTC] PHP   4. WP_Hook->apply_filters() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:311
+[07-Nov-2020 17:00:09 UTC] PHP   5. wp_update_themes() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/class-wp-hook.php:287
+[07-Nov-2020 17:00:09 UTC] PHP   6. trigger_error() /Users/alamato/Documents/Websites_Dev/tomderegt/app/public/wp-includes/update.php:607
+[13-May-2021 08:54:55 UTC] PHP Warning:  Declaration of WP_CLI\Core\CoreUpgrader::download_package($package, $check_signatures = true) should be compatible with WP_Upgrader::download_package($package, $check_signatures = false, $hook_extra = Array) in phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/WP_CLI/Core/CoreUpgrader.php on line 0
+[13-May-2021 08:54:55 UTC] PHP Stack trace:
+[13-May-2021 08:54:55 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[13-May-2021 08:54:55 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[13-May-2021 08:54:55 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[13-May-2021 08:54:55 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[13-May-2021 08:54:55 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[13-May-2021 08:54:55 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[13-May-2021 08:54:55 UTC] PHP   7. WP_CLI\Runner->run_command_and_exit() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160
+[13-May-2021 08:54:55 UTC] PHP   8. WP_CLI\Runner->run_command() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:394
+[13-May-2021 08:54:55 UTC] PHP   9. WP_CLI\Dispatcher\Subcommand->invoke() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:371
+[13-May-2021 08:54:55 UTC] PHP  10. call_user_func:{phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451}() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[13-May-2021 08:54:55 UTC] PHP  11. WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure:phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:95-102}() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[13-May-2021 08:54:55 UTC] PHP  12. call_user_func:{phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98}() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[13-May-2021 08:54:55 UTC] PHP  13. Core_Command->update() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[13-May-2021 08:54:55 UTC] PHP  14. WP_CLI\Utils\get_upgrader() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:1138
+[13-May-2021 08:54:55 UTC] PHP  15. spl_autoload_call() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/utils-wp.php:138
+[13-May-2021 08:54:55 UTC] PHP  16. Composer\Autoload\ClassLoader->loadClass() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/utils-wp.php:138
+[13-May-2021 08:54:55 UTC] PHP  17. Composer\Autoload\includeFile() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/composer/ClassLoader.php:322
+[13-May-2021 08:59:14 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:14 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:14 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:14 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:14 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:16 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:16 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:16 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:16 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:21 UTC] Flywheel::DatabaseConnection
+[13-May-2021 08:59:21 UTC] Flywheel::DatabaseConnection
+[30-Jun-2021 08:17:53 UTC] Flywheel::DatabaseConnection
+[30-Jun-2021 08:18:07 UTC] Flywheel::DatabaseConnection

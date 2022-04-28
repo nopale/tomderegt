@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" fill="#E5E5E5"/>
+<g id="target" clip-path="url(#clip0)">
+<g id="Layer 2">
+<g id="Layer 1">
+<g id="target_2">
+<path id="Vector" d="M31.8 50C41.8516 50 50 41.8516 50 31.8C50 21.7484 41.8516 13.6 31.8 13.6C21.7484 13.6 13.6 21.7484 13.6 31.8C13.6 41.8516 21.7484 50 31.8 50Z" stroke="#D1D3D4" stroke-width="3" stroke-miterlimit="10"/>
+<path id="Vector_2" d="M63.7 31.8H0" stroke="#D1D3D4" stroke-width="3" stroke-miterlimit="10"/>
+<path id="Vector_3" d="M31.8 0V63.7" stroke="#D1D3D4" stroke-width="3" stroke-miterlimit="10"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="63.7" height="63.7" fill="white"/>
+</clipPath>
+</defs>
+</svg>
